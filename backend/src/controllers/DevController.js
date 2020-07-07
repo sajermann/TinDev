@@ -32,6 +32,7 @@ module.exports = {
     const dev = await Dev.create({
       name,
       user: username,
+      bio,
       avatar
     })
     return res.json(dev)
