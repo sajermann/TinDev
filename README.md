@@ -1,4 +1,4 @@
-![Omnistack](https://lh3.googleusercontent.com/pw/ACtC-3d39w4Ppe4kvovXcA_lzFGqPFKqflYUxISSj4opVUiER7bRa4W4nfuWgLhEa-URrJuA4I6s04JxbjuTwwLW6HJ07Rdw-OLJoW9wcC4nNcWX4pPMlkCqClm5gLiKr0ltDlin44Xgq5rMXeCiIaf5Dr7r=w309-h160-no?authuser=0)
+![Omnistack](https://lh3.googleusercontent.com/pw/AM-JKLUPUexpkBxW1B77DqvtLRXD719y3_S5cFIinXFRpMMpYMoxqr-E_gxu4hVXf4AzGZizshvdS6tVxyHghaVt9Pv2dTDWBJKPJx4GKit3Erh5MAb5P-CuxlnWXe7tJWByycAsPWu9eY9eYhUVeCfQBHE=w309-h160-no?authuser=0)
 
 # 🚀 Tindev
 
@@ -22,7 +22,7 @@ O Back-end gerencia as APIs resultantes do banco de dados, o Front-end e o Mobil
 
 Execute `npm install` no backend, frontend e mobile, para instalar as dependências.
 
-Rode `npm start` na pasta backend (Porta 3333), `npm start` na pasta frontend (Porta 3000) e `expo start` na pasta mobile (Porta 19001) lembrando que para o mobile precisa executar o Expo no seu celular ou utilizar um emulador android.
+Execute `npm start` na pasta backend (Porta 3333), `npm start` na pasta frontend (Porta 3000) e `expo start` na pasta mobile (Porta 19001) lembrando que para o mobile precisa executar o Expo no seu celular ou utilizar um emulador android.
 
 É necessário atualizar os endereços de IP dentro dos projetos de acordo com cada computador.
 
@@ -30,35 +30,35 @@ Rode `npm start` na pasta backend (Porta 3333), `npm start` na pasta frontend (P
 
 **Tela Login No Desktop**
 
-![LoginDesktop](https://lh3.googleusercontent.com/pw/ACtC-3fT_iDexMPocqVRi03x51Z4F-KLx7n1UQedxj-wwzMYCf24oLhAJDHD9rsoZDz2Tol85Cvuav6zJJn65fVrTzirhZR_Hds_HlXkGzEpkKtwvq3zJjlYEJ_R2a_KKBjR1nyzAweBbHLI7N5zs4jRpuRc=w1364-h648-no?authuser=0)
+![LoginDesktop](https://lh3.googleusercontent.com/pw/AM-JKLVLoeQUq2rN91QTTeHZiEHi_bjofhwXIRqXrcb2ogw1w_q-RfW8H1glSfFbLr_riJP_DoOz8T4q44jUpR0OZuPY_oqXHksU8f5jNGYeToh_1MzMrjeUNrzvfSZbRqTnTF8ZO6Kt9aWOg26IxZtWOzk=w1364-h648-no?authuser=0)
 
 **Tela Home Com Devs**
 
-![HomeDesktopFull](https://lh3.googleusercontent.com/pw/ACtC-3fdSDIZwSrDaBV1M46XvVP12CDaHByTnYXHTRcafikb2d5vrFmYr8V6m2W2h_u0laBoHuE_hQF6hZxc6lV5ub2VnuBV77-w-g-LLvXuAnJghD5XPX7GcyRgqJ54xUsfRKMaWmboD6kSDh13rlVts5Gh=w1327-h640-no?authuser=0)
+![HomeDesktopFull](https://lh3.googleusercontent.com/pw/AM-JKLXtkVwQxcCm0j5bWE1LgipFMyy71jp8Qjeqp3YfJEIbICtQt1dCa3DMID3o6MDpZHzXumGrAkhIPj46QyiWF13cv2tnsylKBir8ntYktf_VEuzDzw6g0MAePAAeoyp2yX9EGwoWCq70klxOdLsPFU0=w1327-h640-no?authuser=0)
 
 **Tela Home Vazia**
 
-![HomeDesktopEmpty](https://lh3.googleusercontent.com/pw/ACtC-3d6zQmMGaiadzolZUYFKVJZb-ms-k61gpBWO9FMNpbcnw4VEhj2SfdYfLxiEoTaw2gL4HT_kBiqehN_CIjL9M6KGAr2mTyG2A2q2bNIqmlFFGkhkFFr5NDFI9w2oJbb2NLnYRqGC47L3Io0LClSC0T_=w1366-h644-no?authuser=0)
+![HomeDesktopEmpty](https://lh3.googleusercontent.com/pw/AM-JKLXqcnCWlII_uZYR8fri__jzErtuurYxukQDZHHRJ2bZXdqTEL6Gh_b7ILrwpX5M5pkNhGToJZJP7dzXQQLXs3rrM_BQCerDAiCKUy07CqnJ9Xm6dXgbtZjSbLlMFW65k6cZpfbHjckp18tziy7gxPM=w1366-h644-no?authuser=0)
 
 **Tela Match Desktop Dividida em 2 Perfis**
 
-![HomeDesktopMatch](https://lh3.googleusercontent.com/pw/ACtC-3dPpQfQG_vldcqHxt1eBmV7ksNpsgm6F1Dsy0OLnMVI0adZE7GzBoQKTOCfLitSkDq3ejpK_Tfd6gnjjgpzgP2mk9nGJSz6Z1OSVG0i9bJqb5MQBYo-bvH3J-5tcfjHXVtyVkfs-9Os94h6yb_9W_tK=w1353-h628-no?authuser=0)
+![HomeDesktopMatch](https://lh3.googleusercontent.com/pw/AM-JKLVThil_WGNMPT7oQBhXPf1aJF1505YGp52ygKjJOlFrUTJ3eVK6qK0tQO_xJ8yaKM7CPWVFCyYEC1KAQ8dQ2S7rL7Rnmt1xv4W8RMs9y6x-r936f8B_mfG5DZbhwzMI-7qgC3-9j963yFL58apw3Yo=w1353-h628-no?authuser=0)
 
 **Tela Login Mobile**
 
-![LoginMobile](https://lh3.googleusercontent.com/pw/ACtC-3eh8esmkvUspbo_2hscbt1pA7u_t8F2rxT6JdG9GGzLpxG5L7L2bREvQAFSz1KMhHG-37MVUli0Ry6H3b_3Q7D8qqxIme6Gu89PC6MoLDYTgiryVNLwiX3YmL9XttPS_nUQ7khlGVUg1nZu6HIeqDag=w370-h657-no?authuser=0)
+![LoginMobile](https://lh3.googleusercontent.com/pw/AM-JKLWDNdCZ8EoQr9qlTR5Mo56Z7tfvSzdimOj-PAE_YWzIQjduf4-Zd_4RCqsofIDQi3N6qR5WlSdpX-mkZ_9390td1kxcPOu7S21xMDVuuSegSs4T17UggKbDKr1o6jIGWsMVF0KBHrQstC1Linmd8vQ=w370-h657-no?authuser=0)
 
 
 **Tela Home Mobile Com Devs**
 
-![HomeMobileFull](https://lh3.googleusercontent.com/pw/ACtC-3e5ZvHNzn0d5KT0ntSaL6mg0urvmYGz1zzXxwVbq4xzRbLwffWCPaX4L-fJp4bRclozDY4luZna7KWc7YAj7ikNKwOnUdMCjN_DfF0ANUBtzLvgtfzNDIxwEc_BaOVnXjIR-Ta5jRiOvCMNFpmAEq4f=w370-h657-no?authuser=0)
+![HomeMobileFull](https://lh3.googleusercontent.com/pw/AM-JKLUkx8CraoZOHsFy843E1R7CKBe7F5fXPXoU6GW7vWA8yQrG6JzwoX_jdMyrTazvn-qbmfuP49-H8aEm5OJ-N1eH1YJrC9sKBhdTzg_Cm0LyUdfKRdKAQn0jV8-2aQpKxSHwKIsEQwznr4337alvdf0=w370-h657-no?authuser=0)
 
 
 **Tela Home Mobile Empty**
 
-![HomeMobileEmpty](https://lh3.googleusercontent.com/pw/ACtC-3dc2wbOpWKITKWmPV4v5JbxKhnmo0Tnq-X1IwUhODgXiUTtUTWOkzlZzjSL5cgAuxnt12ymve0Nv4tTg0OmdXoVa-8cV4OVB-szQgik4bkVrLgCE0HBzzdhUw7Oj9UMgTonZEpk_yLpHr0eRRVgtHp0=w370-h657-no?authuser=0)
+![HomeMobileEmpty](https://lh3.googleusercontent.com/pw/AM-JKLWbJYZBUrcqe06Dy8uk97bgXMKTAWQtHUzXwDxn_J7sjC3h1ONPPG8DZwYOffG-QwMhmuLVKevDUXdkLVqZ-k7yKvYiMSNnYgYTpzScyi32swUvKFYwt4FPEVYLs_OSLqxLhQta2GeKrjbK2cjuDz0=w370-h657-no?authuser=0)
 
 **Tela Match Mobile**
 
-![MatchMobile](https://lh3.googleusercontent.com/pw/ACtC-3cTd6JyGIuWB8SisavnZFuTe5wZQoVX6CTCjyOeRc26VkEo7CqhjJh33WzHsDcHAsEvYwNHUEND1Upq8M0YotAiFtuAJHCLsJOK5xYRedfvKMCjEwo08R33hwV2Vp02JQBaTiSp2M66h5uKPxmNtijg=w426-h657-no?authuser=0)
+![MatchMobile](https://lh3.googleusercontent.com/pw/AM-JKLWRGbjD6YZgMXRy-5VRpR0MCJS7p8_Eg0YFSTB75Rz7rGVyyhvU-3ymI4KaljKQqvE1vDsqTDMlE3j27jCjaNqArs3ek5OV-Ufeq0o-E2dpjiAfhSlbSmiEe2KLSFTVrhTniCpxkvfhW5E-rRV0pmc=w426-h657-no?authuser=0)
 
